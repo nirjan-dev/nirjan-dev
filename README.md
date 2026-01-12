@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Nirjan 👋
 
-<!--
-**nirjan-dev/nirjan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer building fast,secure and user-friendly tools and scalable web applications. Currently working with React, Vue, Node.js, Golang and Postgres.
 
-Here are some ideas to get you started:
+### 🔨 What I'm Building
+- **[Servomon](https://github.com/nirjan-dev/servomon)** - Self-hostable Linux server monitoring for homelabs
+- **[Rosetide](https://rosetide.net)** - Local-first period tracker (privacy-focused PWA)
+- **[Litsi Chat](https://litsi.fly.dev)** - Peer-to-peer WebRTC video chat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Exploring
+- Self-hosted homelab tools
+- Local-first web applications
+- WebRTC and real-time communication
+
+### 🤝 Open to
+- Contributing to self-hostable services and developer tools
+- Collaborating on privacy-focused projects
+- Remote opportunities (especially in Spain/Ireland)
+
+### 📫 Reach me
+- Website: [nirjan.dev](https://nirjan.dev)
+- Email: hi@nirjan.dev
