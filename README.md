@@ -12,7 +12,7 @@ My main tools are **TypeScript, Node.js, Go and PostgreSQL**, alongside Vue, Nux
 
 ### Selected personal projects
 
-- **[RemoteDevJobs](https://github.com/nirjan-dev/remotedevjobs-v2)** — a Nuxt 4 / PostgreSQL job board with multi-source ingestion, a database-backed queue and server-rendered filtering. [Job board](https://remotedevjobs.vercel.app).
+- **[RemoteDevJobs](https://github.com/nirjan-dev/remotedevjobs-v2)** — a Nuxt 4 / PostgreSQL job board with multi-source ingestion, a database-backed queue and server-rendered filtering. [Job board](https://remotedevjobs.net).
 - **[SafeCap](https://github.com/nirjan-dev/safecap)** — a Vue/WXT Chrome recording extension that streams video chunks to OPFS and keeps library metadata in Chrome storage. [Chrome Web Store](https://chromewebstore.google.com/detail/safecap/jbghdaimglclkedejlobbpmfiealoepf).
 - **[Litsi](https://github.com/nirjan-dev/litsi)** — a Nuxt/WebRTC video-chat prototype with WebSocket signalling, in-memory rooms and TURN relay support. [Prototype](https://litsi.fly.dev).
 
